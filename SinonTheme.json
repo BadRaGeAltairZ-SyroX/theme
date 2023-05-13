@@ -1,10 +1,12 @@
 {
-    "manifest": {
-        "author": "Yato",
-        "version": "1.0.0",
-        "license": "Unlicense",
-        "name": "Sinon Theme"
-    },
+    "name": "Sinon Theme",
+    "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini",
+    "authors": [
+        {
+            "name": "Yato",
+            "id": "344457116322365450"
+        },
+    ],
     "background": {
         "blur_radius": 0,
         "overlay_alpha": 0,
@@ -47,5 +49,10 @@
         "ic_exit_to_app_dark_24dp": -65536,
         "ic_channel_announcements_thread_nsfw": -65536
     },
-    "raws": {}
+    "spec": 2,
+    "background": {
+        "url": "https://github.com/BadRaGeAltairZ-SyroX/theme/blob/main/bg.jpg",
+        "alpha": 0.5,
+        "color": "#081924"
+    }
 }
