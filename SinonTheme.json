@@ -97,9 +97,9 @@
         ]
     },
     "rawColors": {
-        "PRIMARY__DARK_300": "-7094298",
-        "PRIMARY_DARK_400": "-7094298",
-        "BRAND_NEW_560": "-12021592",
+        "PRIMARY_300": "-7094298",
+        "PRIMARY_400": "-7094298",
+        "BRAND_560": "-12021592",
     "spec": 2,
     "background": {
         "blur": 0.6,
