@@ -1,11 +1,10 @@
 {
-    "name": "Sinon Theme",
-    "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini",
+    "name": "Sinon",
+    "description": "Sinon Theme",
     "authors": [
         {
             "name": "Yato",
             "id": "344457116322365450"
-          
         }
     ],
     "semanticColors": {
@@ -132,5 +131,5 @@
         "WHITE_500": "#EFDFD7",
         "GREEN_360": "#503E38"
     },
-     "spec": 2,
+    "spec": 2
 }
