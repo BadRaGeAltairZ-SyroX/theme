@@ -1,49 +1,119 @@
 {
     "name": "Sinon Theme",
-    "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini",
+    "description": "Ported from Aliucard to vendetta",
     "authors": [
         {
             "name": "Yato",
             "id": "344457116322365450"
-        },
+          
+        }
     ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#EFDFD7"
+        ],
+        "HEADER_SECONDARY": [
+            "#EFDFD7"
+        ],
+        "TEXT_NORMAL": [
+            "#E7D6CE"
+        ],
+        "TEXT_MUTED": [
+            "#A07D6C"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#EFDFD7"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#503E38"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#EFDFD7"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#957261"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#110D0A"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#15100d"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#15100d"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#110D0A"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#503E38"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#15100d"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#15100d"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#15100d"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#15100d"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#322720"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#322720"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#3a2c26"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#372d2b"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "503E38"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#DAC0B3"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#DAC0B3"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#372E29"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#9E8376"
+        ],
+        "TEXT_LINK": [
+            "#9E8376"
+        ],
+        "TEXT_DANGER": [
+            "#503E38"
+        ],
+        "KEYBOARD": [
+            "#110D0A"
+        ],
+        "CHANNEL_ICON": [
+            "#EFDFD7"
+        ],
+        "CHAT_BACKGROUND": [
+            "#110D0A"
+        ]
     },
-    "fonts": {},
-    "simple_colors": {
-        "background": 838860800,
-        "background_secondary": 771751936,
-        "accent": -7094298,
-        "mention_highlight": 1395097293
-    },
-    "colors": {
-        "link": -11824171,
-        "brand_new_560": -12021592,
-        "uikit_btn_bg_color_selector_red": -9459234,
-        "primary_dark_400": -7094298,
-        "primary_dark_300": -7094298
-    },
-    "drawable_tints": {
-        "ic_ban_red_24dp": -1441537,
-        "drawable_button_grey": -12409355,
-        "ic_channel_text": -12409355,
-        "ic_spine_long_cap": -14575885,
-        "ic_sidebar_pins_off_dark_24dp": -9459234,
-        "ic_sidebar_notifications_off_dark_24dp": -9459234,
-        "ic_sidebar_search_24dp": -9459234,
-        "ic_sidebar_notifications_on_dark_24dp": -9459234,
-        "ic_settings_24dp": -65445,
-        "ic_sidebar_pins_on_dark_24dp": -9459234,
-        "ic_guild_settings_24dp": -9459234,
-        "drawable_voice_sensitivity_progress": -2439708,
-        "ic_channel_text_nsfw": -65536,
-        "ic_channel_voice": -1192619,
-        "ic_channel_announcements": -2490290,
-        "ic_thread": -9779831,
-        "ic_menu_24dp": -11173206,
-        "ic_channel_text_locked": -1212249,
-        "ic_add_reaction_grey_16dp": -1795490,
-        "ic_exit_to_app_dark_24dp": -65536,
-        "ic_channel_announcements_thread_nsfw": -65536
+"rawColors": {
+        "PRIMARY_300": "#93BFE6",
+        "PRIMARY_400": "#93BFE6,
+        "BRAND_560": "#4890A8",
     },
     "spec": 2,
     "background": {
