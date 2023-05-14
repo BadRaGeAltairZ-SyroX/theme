@@ -22,14 +22,12 @@
         ],
         "TEXT_LINK": [
             "#4b93d5"
-            //"#507dfc"
         ],
         "TEXT_DANGER": [
             "#507dfc"
         ],
         "INTERACTIVE_NORMAL": [
             "transparent"
-             //"#ffffff"
         ],
         "INTERACTIVE_ACTIVE": [
             "#ffffff"
@@ -39,7 +37,6 @@
         ],
         "BACKGROUND_PRIMARY": [
             "transparent"
-            //"#000000"
         ],
         "BACKGROUND_SECONDARY": [
             "#000000"
@@ -58,11 +55,9 @@
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "transparent"
-            //"#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "transparent"
-            //"#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000"
