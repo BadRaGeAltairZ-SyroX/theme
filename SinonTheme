@@ -1,5 +1,5 @@
 {
-    "name": "Sinon",
+    "name": "Sinon Theme",
     "description": "Sinon Theme",
     "authors": [
         {
@@ -122,7 +122,8 @@
     },
     "spec": 2,
     "background": {
-        "url": "https://raw.githubusercontent.com/BadRaGeAltairZ-SyroX/theme/main/bg.jpg",
+        "url": "https://cdn.discordapp.com/attachments/777184133017370624/1086972388408823858/IMG-20230318-WA0086.jpg",
         "alpha": 0.5,
         "color": "#081924"
+    }
 }
