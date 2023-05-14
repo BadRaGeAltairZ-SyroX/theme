@@ -36,16 +36,16 @@
             "#808080"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000"
+            "#transparent"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+            "transparent"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
+            "#transparent"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000"
+            "#transparent"
         ],
         "BACKGROUND_ACCENT": [
             "#507dfc"
