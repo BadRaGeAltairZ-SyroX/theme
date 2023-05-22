@@ -74,11 +74,13 @@
       "#0202020f"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
+      "#00000000",
       "#313338",
       "#f9f9f9",
       "#000000"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
+      "#00000000",
       "#2b2d31",
       "#ffffff",
       "#060607"
@@ -487,11 +489,13 @@
       "#232428e6"
     ],
     "HEADER_PRIMARY": [
+      "#00000000",
       "#f2f3f5",
       "#060607",
       "#f2f3f5"
     ],
     "HEADER_SECONDARY": [
+      "#00000000",
       "#b5bac1",
       "#4e5058",
       "#a5abb3"
