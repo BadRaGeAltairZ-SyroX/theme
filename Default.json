@@ -111,11 +111,13 @@
       "#0c0c0d"
     ],
     "BACKGROUND_PRIMARY": [
+      "#00000000",
       "#313338",
       "#ffffff",
       "#020202"
     ],
     "BACKGROUND_SECONDARY": [
+      "#00000000",
       "#2b2d31",
       "#f2f3f5",
       "#0c0c0d"
