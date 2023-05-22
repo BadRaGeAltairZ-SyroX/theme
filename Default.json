@@ -109,14 +109,16 @@
       "#0c0c0d"
     ],
     "BACKGROUND_PRIMARY": [
-      "#313338",
-      "#ffffff",
-      "#020202"
+      "transparent"
+      //"#313338",
+      //"#ffffff",
+      //"#020202"
     ],
     "BACKGROUND_SECONDARY": [
-      "#2b2d31",
-      "#f2f3f5",
-      "#0c0c0d"
+      "transparent"
+      //"#2b2d31",
+      //"#f2f3f5",
+      //"#0c0c0d"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#232428",
@@ -124,9 +126,10 @@
       "#111214"
     ],
     "BACKGROUND_TERTIARY": [
-      "#1e1f22",
-      "#e3e5e8",
-      "#060607"
+      "transparent"
+      //"#1e1f22",
+      //"#e3e5e8",
+      //"#060607"
     ],
     "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
       "#11121499",
@@ -1182,9 +1185,9 @@
     },
     "spec": 2,
     "background": {
-        "blur": 0.6,
+        "blur": 0,
         "url": "https://raw.githubusercontent.com/BadRaGeAltairZ-SyroX/theme/main/bg.jpg",
-        "alpha": 0.5,
+        "alpha": 0,
         "color": "#000000"
     }
 }
