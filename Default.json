@@ -109,10 +109,16 @@
       "#0c0c0d"
     ],
     "BACKGROUND_PRIMARY": [
-      "transparent"
+      "transparent",
+      "#313338",
+      "#ffffff",
+      "#020202"
     ],
     "BACKGROUND_SECONDARY": [
-      "transparent"
+      "transparent",
+      "#2b2d31",
+      "#f2f3f5",
+      "#0c0c0d"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#232428",
@@ -120,7 +126,10 @@
       "#111214"
     ],
     "BACKGROUND_TERTIARY": [
-      "transparent"
+      "transparent",
+      "#1e1f22",
+      "#e3e5e8",
+      "#060607"
     ],
     "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
       "#11121499",
