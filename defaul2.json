@@ -1,4 +1,12 @@
 {
+    "name": "Default",
+    "description": "Default",
+    "authors": [
+        {
+            "name": "Yato",
+            "id": "344457116322365450"
+        }
+    ],
   "semanticColors": {
     "ACTIVITY_CARD_BACKGROUND": [
       "#1e1f22",
