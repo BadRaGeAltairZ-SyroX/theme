@@ -1183,9 +1183,9 @@
     },
     "spec": 2,
     "background": {
-        "blur": 0.6,
+        "blur": 1.0,
         "url": "https://raw.githubusercontent.com/BadRaGeAltairZ-SyroX/theme/main/bg.jpg",
-        "alpha": 0.5,
+        "alpha": 1.0,
         "color": "#000000"
     }
 }
