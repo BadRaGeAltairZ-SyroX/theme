@@ -4224,6 +4224,7 @@
     "background": {
         "blur": 6.0,
         "url": "https://raw.githubusercontent.com/BadRaGeAltairZ-SyroX/theme/main/bg.jpg",
-        "alpha": 5.0
+        "alpha": 5.0,
+        "color": "#000000"
     }
 }
