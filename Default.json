@@ -1181,9 +1181,11 @@
     "YELLOW_900": "#160e02",
     "YOUTUBE": "#cb2120"
     },
-    "spec": 2,
     "background": {
         "url": "https://raw.githubusercontent.com/BadRaGeAltairZ-SyroX/theme/main/bg.jpg",
-        "alpha": 0.63,
+        "alpha": 0.63
+},
+    "spec": 2
+            }
     }
 }
