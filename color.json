@@ -4220,9 +4220,7 @@
 },
     "spec": 2,
     "background": {
-        "blur": 0.6,
-        "url": "https://raw.githubusercontent.com/BadRaGeAltairZ-SyroX/theme/main/bg.jpg",
-        "alpha": 0.5,
-        "color": "#000000"
+        "url": "https://cdn.discordapp.com/attachments/777184133017370624/1145614357103906856/IMG-20230318-WA0086_1.jpg",
+        "alpha": 0.5
     }
 }
